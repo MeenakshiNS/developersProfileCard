@@ -1,3 +1,7 @@
+#MY PROFILE CARD (using react)
+![image](https://github.com/MeenakshiNS/developersProfileCard/assets/130451378/19ccdb73-9b2d-4ce9-aaa2-27cf875d696d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
